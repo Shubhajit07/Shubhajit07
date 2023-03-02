@@ -1,6 +1,8 @@
-### Hi there I'm Shubhajit07 👋
+### Hi there I'm Shubhajit Halder 👋
 
 ![Shubhajit07's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhajit07&show_icons=true&theme=radical)
+
+I love to code and I'm a student of 12th class of Purnanagar P.C High HS school. I'm learning JavaScript, React, Python, PHP, and Dart.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhajit07&show_icons=true&theme=radical)](https://github.com/shubhajit07)
 <!--
