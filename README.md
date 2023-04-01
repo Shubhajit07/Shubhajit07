@@ -1,4 +1,5 @@
 ### Hi there I'm Shubhajit Halder 👋
+![](https://komarev.com/ghpvc/?username=Shubhajit07&style=flat-square)
 My GitHub stats
 
 ![Shubhajit07's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhajit07&show_icons=true&theme=radical)
